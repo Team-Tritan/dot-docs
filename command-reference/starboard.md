@@ -1,6 +1,6 @@
 # **Starboard Commands**
 This category is relating to the starboard, configuration, and more.
-- You can replace `.starboard commandName `with `.sb commandName`.
+- You can replace `.starboard commandName` with `.sb commandName`.
 
 |   Command | Description   | Usage   | Notes | Command Aliases
 | ------------ | ------------ | ------------ | ------------ |  ------------ | 
