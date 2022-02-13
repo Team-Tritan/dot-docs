@@ -1,5 +1,5 @@
-## **Anti-Spam (Filter)**
-Dot's anti-spam filter is a quick and efficient way to auto-moderate your server based on a vast variety of options.
+## **Filter**
+Dot's filters are a quick and efficient way to auto-moderate your server based on a vast variety of options.
 
 
 |   Command | Description   | Usage   | Notes | Command Aliases
